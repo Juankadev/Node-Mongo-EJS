@@ -1,5 +1,4 @@
-# Node-Mongo-EJS
-![frutas](/pdf12ejs/src/readme/frutas.gif)
+![frutas](/src/readme/frutas.gif)
 
 # FRUTISSIMO
 #### Frutissimo es un catalogo web de frutas.
