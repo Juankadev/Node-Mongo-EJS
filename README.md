@@ -1,6 +1,5 @@
-![frutas](/src/readme/frutas.gif)
-
 # FRUTISSIMO
+![frutas](/src/readme/frutas.gif)
 #### Frutissimo es un catalogo web de frutas.
 ## Objetivo
 #### El proyecto es a fines de comprender la extracción de datos de una base de datos MongoDB, para posteriormente llevarlos a una interfaz web. 
